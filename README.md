@@ -2,7 +2,9 @@
 
 A cutting-edge portfolio website featuring stunning 3D graphics, advanced animations, and modern web technologies. Built with Next.js, Three.js, and Framer Motion.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/6366f1/ffffff?text=Modern+3D+Portfolio)
+![Portfolio Preview](https://github.com/user-attachments/assets/d1d0a997-186e-4d3d-9856-c8b548b2f538)
+
+> 📖 **New to this project?** Check out the [Quick Start Guide](QUICK_START.md) for a 5-minute setup!
 
 ## ✨ Features
 

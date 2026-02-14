@@ -91,7 +91,7 @@ function TimelineItem({ item, index }: TimelineItemProps) {
           </div>
           <p className="text-sm text-gray-400 mb-3">{item.period}</p>
           <p className="text-gray-300 mb-4">{item.description}</p>
-          <div className="flex flex-wrap gap-2 justify-end">
+          <div className={`flex flex-wrap gap-2 ${isLeft ? 'justify-end' : 'justify-start'}`}>
             {item.skills.map((skill) => (
               <span
                 key={skill}
